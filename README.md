@@ -17,3 +17,5 @@ func didTapSegmentAtIndex(index: Int)
   self.updateView()
 }
 
+# Installation
+Just drag the WTSegmentAnimationView.swift class in your project and you are ready to go ;)
